@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="GoogleMapKey">AIzaSyACYoG7D_pN_3ZzjBcj-k01ntSihrGlMCQ</string>
+    <string name="polyline">PolyLine</string>
+    <string name="clear">Clear</string>
+    <string name="end_polyline">End Polyline</string>
+    <string name="start_polyline">Start Polyline</string>
+</resources>
